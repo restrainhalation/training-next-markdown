@@ -4426,7 +4426,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8, postcss@npm:^8.4.23":
+"postcss@npm:^8.4.23":
   version: 8.5.12
   resolution: "postcss@npm:8.5.12"
   dependencies:
@@ -5315,7 +5315,6 @@ __metadata:
     eslint-config-next: "npm:14.2.4"
     next: "npm:15.5.15"
     next-mdx-remote: "npm:^6.0.0"
-    postcss: "npm:^8"
     react: "npm:^18"
     react-dom: "npm:^18"
     tailwindcss: "npm:^3.4.1"
